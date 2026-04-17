@@ -1,6 +1,7 @@
 # 🚀 Real Time AI Lead Qualification and Outreach Pipeline
 
-A high-performance, event-driven automation pipeline for mortgage broker lead qualification. This system transitions from legacy polling to **Real-Time Streaming** using HubSpot Webhooks and Google Apps Script (GAS) to provide instant AI scoring and outreach. ⚡📈
+A high-performance, event-driven automation pipeline for mortgage broker lead qualification. This system transitions from legacy polling to Real-Time Streaming using HubSpot Webhooks and Google Apps Script (GAS) to provide instant AI scoring and outreach. ⚡📈
+
 ---
 
 ## 🎯 Project Overview
