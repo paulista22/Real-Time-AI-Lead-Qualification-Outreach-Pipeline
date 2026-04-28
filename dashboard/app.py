@@ -33,7 +33,7 @@ load_dotenv()
 # ── Page config ───────────────────────────────────────────────────────────────
 
 st.set_page_config(
-    page_title="Lead Scoring & Call Analytics Dashboard",
+    page_title="Live Lead Qualification Dashboard",
     page_icon="🏦",
     layout="wide",
     initial_sidebar_state="expanded",
