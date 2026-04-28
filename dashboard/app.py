@@ -124,7 +124,7 @@ def _render_sidebar(df: pd.DataFrame) -> pd.DataFrame:
         "https://img.icons8.com/fluency/96/bank-building.png",
         width=60,
     )
-    st.sidebar.title("Lead Scoring & Call Analytics Dashboard")
+    st.sidebar.title("Live Lead Qualification Dashboard")
     st.sidebar.caption("Non-QM Mortgage Intelligence")
     st.sidebar.divider()
 
